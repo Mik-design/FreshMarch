@@ -1,0 +1,18 @@
+{
+  "user": {
+    "first_name": "User",
+    "photo" : "any link to image",
+    "second_name": "User_Second",
+    "education": 1,
+    "company": [
+      {
+        "name": "TEST_COMPANY",
+        "position": "developer"
+      },
+      {
+        "name": "Google",
+        "position": "developer"
+      }
+    ]
+  }
+}
